@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kpluas21
-- 👀 I’m interested in learning all about Computer Science and Programming! Currently I'm working on several projects involving cryptography.
-- 🌱 I’m currently learning C/C++. I also know a bit of Java and Python.
+- 👀 I’m interested in learning all about Computer Science and Programming! Currently I'm working on a C Library to make programming easier.
+- 🌱 I’m currently learning C/C++. I also have exposure to Java, Python and Lisp.
 - 📫 How to reach me : kpluas21@gmail.com
 
 <!---
